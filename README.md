@@ -1,0 +1,2 @@
+# Santander-Transactions-Prediction
+This is a jab at solving the Santander transaction prediction problem posted on Kaggle. A challenge here was that all the 250 dimesnsions in the dataset had the same variance, hence reducing dimensionality wasn't an option. Kagglers found a 'trick' in this dataset and were able to exploit it and add more feature yielding very high accuracy. In this notebook I make a simple attempt to use Gradient boosting with a bit of hyper parameter tuning to achieve an accuracy of 
